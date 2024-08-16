@@ -6,7 +6,7 @@ Sou técnico em Automação Industrial pelo CTIG - Unesp, atualmente cursando Ci
 
 Me interesso muito por tecnologias e tudo o que elas podem nos oferecer. Foi então na programação que eu encontrei o que eu gostaria de fazer na minha vida. 💻🤍
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mavitu56&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mavitu56&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Minhas principais tecnologias 
 
